@@ -4,7 +4,10 @@ layout: default
 
 # Eulogy for Bai
 
-## This is the reading I gave at my sister Bai's (Rebecca) memorial service in March 2019.
+## The reading I gave at my sister Bai's (Rebecca) memorial service
+#### March 2019
+
+In 2024, I ran my first half marathon, raising funds for the Royal Brompton hospital where Bai spent a lot of time. Here's the [Just Giving](https://www.justgiving.com/page/tom-bond-1707581225230) page.
 
 ### Introduction and early years
 
