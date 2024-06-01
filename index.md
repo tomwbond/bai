@@ -2,53 +2,11 @@
 layout: default
 ---
 
-![Banner](assets/biscuit.png)
+# Eulogy for Bai
 
+## This is the reading I gave at my sister Bai's (Rebecca) memorial service in March 2019.
 
-**[Biscuit](http://sblisesivdin.github.io/biscuit)** is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find. 
-
-## Usage
-
-You can use this theme with [Jekyll](http://jekyllrb.com/) or you can simply use it with [Github Pages](https://pages.github.com).
-For local usage just download [Jekyll](http://jekyllrb.com/), use installation guide for more. You can download latest Biscuit from [its Github repository](https://github.com/sblisesivdin/biscuit).
-
-If you prefer to use Github Pages, you do not need to download it, upload files to a new repository...etc., just [fork](https://docs.github.com/en/get-starter/quickstart/fork-a-repo) and use it.
-
-### Files
-
-* `_config.yml`            : Main configuration file.
-* `index.md`               : Website page (for now, this page).
-* `_includes/head.html`    : File to add custom code to `<head>` section.
-* `_includes/scripts.html` : File to add custom code before `</body>`. You can change footer at here.
-* `_sass` folder           : Related scss files can be found at this folder.
-* `css/main.csss`          : Main scss file.
-* `README.md`              : A simple readme file.
-
-## Example tag usage
-
-## Header 1
-### Header 2
-#### Header 3
-**bold**
-*italic*
-
-> blockquotes
-
-~~~python
-import os,time
-print ("Biscuit")
-~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
-
-
-# The eulogy I gave at Bai's memorial service in March 2019.
-
-## Introduction and early years
+### Introduction and early years
 
 In late summer 1986, in the same way that you try to soften the blow for your dog when you bring a new puppy home from the pet shop, my mum bought a fish tank full of guppy fish and a robot in an effort to distract her pampered firstborn from the second child she was bringing back from the hospital.
 
@@ -84,7 +42,7 @@ Most of us, faced with a dumped pony, would call the RSPCA. And maybe the police
 
 Bai’s lifelong love of animals made all of us more outdoorsy than we might otherwise have been. There were long walks on horseback heading to somewhere with a view for a picnic with the dogs. Even Rusty, our beloved little Norfolk terrier, learnt to like horses, once the girls started letting him sit in front of them on the saddle.
 
-## Her personality
+### Her personality
 
 It was in France that Bai’s intelligence, steely determination and even stubbornness started to become apparent. At school, she didn’t think it was fair that she was in a different class to me, despite being a year and a half younger. In protest, she refused to say a single word - in either language - until she was moved up into my class, at which point it became clear she could already speak French as well as anyone else in the room.
 
@@ -104,7 +62,7 @@ She was outward looking, followed politics and helped the Brompton to fundraise.
 
 She also used her natural connection with children for good. She had a real knack of getting across to them, and they loved her for it. She worked for a while with the charity Time for Children, helping pupils in disadvantaged areas who needed extra support.
 
-## Her strength
+### Her strength
 
 Bai was our big sister, even to me, really, and she was the hub of the family. Caite described her as our air traffic controller. She knew where everyone was, what they were doing, and who was in trouble. 
 
@@ -130,7 +88,7 @@ The last time I spoke to her, the day after her operation, she was surrounded by
 
 That even in the middle of all that - after major open heart surgery - she was still putting other people first, says a very great deal about who she was.
 
-## Bai’s work
+### Bai’s work
 
 In everything she did, Bai was creative. 
 
@@ -154,13 +112,13 @@ The Single Takes show that Octopus put on in September was one of those precious
 
 She absolutely sparkled that night.
 
-## The gap she leaves
+### The gap she leaves
 
 Bai leaves an unbearably large gap in our lives, and her story wasn’t finished. It seems impossible to do her justice, except in the very broadest strokes. But she leaves a real legacy. A tangible body of work. Stories, plays and films that we can revisit and that will delight us, make us laugh and give us inspiration.
 
 She made a lasting impact on the people and animals in her life, and we take such a lot of comfort being surrounded by people who loved her and cared about her. It’s also so nice to see people that reflect all the different aspects of her life and her being.
 
-## Film and close
+### Film and close
 
 In a moment, we’d like to show a short film Bai made, called I Left Early. She made it last year with her Octopus group, and it was screened at their Single Takes show. Although it’s a fictional film, it is very closely based on a letter she wrote to us before her operation in 2015, just in case. 
 
